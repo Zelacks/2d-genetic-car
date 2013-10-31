@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+
+# Logs
+*.tlog
+*.log
+
+#Intellisense
+*.sdf
